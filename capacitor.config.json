@@ -1,0 +1,18 @@
+{
+  "appId": "app.floot.u116a2f7a38654461ab29da07998f3e8e",
+  "appName": "Utility Hub",
+  "webDir": "dist",
+  "plugins": {
+    "CapacitorCookies": {
+      "enabled": true
+    },
+    "StatusBar": {
+      "overlaysWebView": false,
+      "backgroundColor": "#000000",
+      "style": "DARK"
+    },
+    "SystemBars": {
+      "style": "DARK"
+    }
+  }
+}

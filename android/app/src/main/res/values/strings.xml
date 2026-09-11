@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Utility Hub</string>
+    <string name="title_activity_main">Utility Hub</string>
+    <string name="package_name">app.floot.u116a2f7a38654461ab29da07998f3e8e</string>
+    <string name="custom_url_scheme">app.floot.u116a2f7a38654461ab29da07998f3e8e</string>
+</resources>
